@@ -17,6 +17,7 @@ GeoFy is a powerful tool designed to capture the geolocation of users through th
 - **Ngrok Support**: Add Ngrok as an additional tunneling option.
 - **IP-based Location Detection**: Get approximate location when GPS access is denied.
 - **Logging to File**: Save captured locations to a file for later review.
+- **More Templates**: Additional landing page templates will be released!
 
 ## Installation
 Clone the repository and run the script:
